@@ -1,3 +1,4 @@
+![Error](https://image.noelshack.com/fichiers/2025/05/3/1738179855-erreurworkshop.png)
 ![PZ Mod Cleaner](https://image.noelshack.com/fichiers/2025/05/3/1738178859-screen.png)
 
 ## ✨ Fonctionnalités
