@@ -1,4 +1,5 @@
-https://image.noelshack.com/fichiers/2025/05/3/1738178859-screen.png
+![PZ Mod Cleaner](https://image.noelshack.com/fichiers/2025/05/3/1738178859-screen.png)
+
 ## ✨ Fonctionnalités
 
 - 🔍 **Recherche intelligente des mods**
