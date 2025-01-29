@@ -1,5 +1,4 @@
-[url=https://ibb.co/hF8Ycgtx][img]https://i.ibb.co/hF8Ycgtx/screen.png[/img][/url]
-
+https://image.noelshack.com/fichiers/2025/05/3/1738178859-screen.png
 ## ✨ Fonctionnalités
 
 - 🔍 **Recherche intelligente des mods**
