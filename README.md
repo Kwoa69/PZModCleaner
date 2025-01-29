@@ -1,4 +1,4 @@
-![Interface du PZ Mod Cleaner](images/screen.png)
+https://ibb.co/hF8Ycgtx
 
 ## ✨ Fonctionnalités
 
