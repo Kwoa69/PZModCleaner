@@ -13,6 +13,18 @@
   - Accès direct aux pages Steam des mods
   - Vérification de l'état du jeu avant suppression
 
+## ⚠️ Note sur les Antivirus
+
+Certains antivirus peuvent détecter PZ Mod Cleaner comme un virus. C'est un **faux positif** causé par :
+- La méthode de compilation utilisée (PyInstaller)
+- Les permissions nécessaires pour gérer les mods Steam
+- L'absence de signature de code
+
+Le code source complet est disponible sur GitHub pour vérification. Si vous préférez, vous pouvez :
+1. Exécuter le code source Python directement
+2. Ajouter PZ Mod Cleaner aux exceptions de votre antivirus
+3. Scanner l'exécutable sur [VirusTotal](https://www.virustotal.com/) pour plus de détails
+
 ## 🚀 Installation
 
 1. Assurez-vous d'avoir Python 3.8+ installé sur votre système
